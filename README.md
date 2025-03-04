@@ -65,7 +65,7 @@ Future Enhancements
 🚀 Add WhatsApp messaging feature
 
 Contributors
-Asmita Chorge
-Siddhi Dalvi
-Sharvani Mahadik
-Ashwini Pawar
+Asmita Chorge,
+Siddhi Dalvi,
+Sharvani Mahadik,
+Ashwini Pawar.
